@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true confirmation of the great victory in VVales: sent in a letter to the Speaker of the Honorable House of Commons, from Colonel Thomas Horton from Bridge-end, May 13. 1648. With a list of the officers and others taken prisoners at the fight, and brought up by Captain Nicholets, who was engaged in the whole service; which letter and list were read in the said House, and ordered to be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Horton, Thomas, d. 1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86582</idno>
+            <idno type="STC">Wing H2887</idno>
+            <idno type="STC">Thomason E443_15</idno>
+            <idno type="STC">ESTC R202557</idno>
+            <idno type="EEBO-CITATION">99862794</idno>
+            <idno type="PROQUEST">99862794</idno>
+            <idno type="VID">161708</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161708)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true confirmation of the great victory in VVales: sent in a letter to the Speaker of the Honorable House of Commons, from Colonel Thomas Horton from Bridge-end, May 13. 1648. With a list of the officers and others taken prisoners at the fight, and brought up by Captain Nicholets, who was engaged in the whole service; which letter and list were read in the said House, and ordered to be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Horton, Thomas, d. 1649.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 18. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tenby (Wales) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161708:1" rendition="simple:additions"/>
+            <p>
+               <hi>Die Mercurii,</hi> 17 <hi>Maii,</hi> 1648.</p>
+            <p>A TRUE CONFIRMATION Of the Great Victory in VVales: SENT In a LETTER to the Speaker of the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons, From Colonel <hi>Thomas Horton</hi> From <hi>Bridge-end,</hi> May 13. 1648.</p>
+            <p>With a LIST of the Officers and others taken Priſoners at the Fight, and brought up by Captain <hi>Nicholets,</hi> who was engaged in the whole Service;</p>
+            <p>
+               <hi>Which Letter and Liſt were read in the ſaid Houſe, and Or<g ref="char:EOLhyphen"/>dered to be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>H: Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons. <hi>May</hi> 18. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161708:2"/>
+            <pb n="3" facs="tcp:161708:2"/>
+            <head>For the Honorable <hi>William Len<g ref="char:EOLhyphen"/>thal</hi> Eſquire, Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall give you a Narration (according to my own obſervation, and the help of ſome of the Officers with me) both of the maner and ſucceſs of our late ingage<g ref="char:EOLhyphen"/>ment with the enemy neer Saint Fagons. The enemy having drawn off from Saint Nicholas to Lankarven, Penmark and Ful<g ref="char:EOLhyphen"/>mun Caſtle, Friday the fifth of May. On the Lords day at night they advanced towards us again to Saint Nicholas; by which, we did preſently apprehend, That they intended to fight with us, and were induced to ſuch a belief the ra<g ref="char:EOLhyphen"/>ther, becauſe they knew two days before, that Lieutenant General <hi>Cromwel</hi> was coming towards us. This made us draw in all our horſe cloſe that night, as we had done di<g ref="char:EOLhyphen"/>vers nights before, and prepare for the work in the morning; and about ſeven in the morning our Scouts diſcovered their Body about a mile and half from our quarters, upon which,
+<pb n="4" facs="tcp:161708:3"/>we drew out, and took the beſt ground we could; Major <hi>Bethel</hi> commanded the horſe on the right Wing, Major <hi>Barton</hi> on the left, and Colonel <hi>Okey</hi> and his Major with the Dragoons on both Wings with the horſe; the enemy advanced faſt with a ſtrong forlorn of foot, and about ſix Pickering horſe; Lieutenant <hi>Godfrey</hi> with a forlorn of thirty Horſe and twenty Dragoons, charged and routed them, doing good execution, which gave us the advantage of a new ground; ſo we advanced with horſe and foot up<g ref="char:EOLhyphen"/>on them, Captain <hi>Garland</hi> with two hundred fire-locks on foot, and Captain <hi>Nicholets</hi> (this Bearer) with Colonel <hi>Okeys</hi> own Troop of Dragoons mounted, with ſome horſe on the right Wing, diſputed the firſt encounter very hotly, where he ſhewed much reſolution, and beat the enemy out of two Cloſes, and over a little Brook, and there maintain<g ref="char:EOLhyphen"/>ed their ground under command of the enemies ſhot, until the forlorn of foot, commanded by Captain Lieutenant <hi>Fan,</hi> and ſome horſe from the left Wing, came to their relief, and then they beat the enemy from hedg to hedg before them, until they came to a Bridg, where the enemies greateſt body of foot were placed: The horſe all this while and Dragoons following this firſt ſucceſs with much vigor, were conſtrain<g ref="char:EOLhyphen"/>ed to ſtand the enemies ſhot for ſometime, before the foot (though they made great haſt) could come up to them; and preſently the firſt Diviſion of foot commanded by Lieutenant Colonel <hi>Read</hi> fell cloſe up to the enemies Front, Major <hi>Wade</hi> with the ſecond Diviſion got over the little Brook on the left Flank of the enemy, Major <hi>Barton</hi> like<g ref="char:EOLhyphen"/>wiſe with the left Wing of horſe, with much celerity, paſt over a Boggy place and the little Brook, to ſecond thoſe foot; and ſome of the enemies horſe coming on to charge the foot, were gallantly reſiſted and beaten back by Captain <hi>Hughs:</hi> By this time the horſe and Dragoons on the right Wing were gotten over likewiſe, the enemies foot ſtanding very ſtoutly to it, until our horſe began to
+<pb n="5" facs="tcp:161708:3"/>ſurround them, and then they preſently all ran, and we cleared the field, our horſe and Dragoons purſuing them for eight or ten miles. The enemies horſe, which they ſay were five hundred, were imployed in their Rear, to keep up their foot, and we never ſaw after we were ingaged, above ſixty horſe in a Body, all the fight: Their whole number of horſe and foot is confirmed to be about eight thouſand; they had about two thouſand and five hundred Muskettiers, by their own confeſſion, beſides Bills, Pikes and Clubs; we took up the day we fought above two thouſand fire Arms, with Pikes, Welch Bills, and other weapons great ſtore; ten Barrels of Powder, and all the reſt of their Ammunition in the field, and moſt, if not all their Colours. The number of priſoners that are taken are about three thouſand, I have here incloſed a Liſt of the Officers as they gave in themſelves to the Marſhal; ſome hundreds of them were diſarmed four or eight miles from the place we fought, which were let go. Captain <hi>Wogan</hi> a Member of the Houſe of Commons, ſent down by them into theſe parts, carried himſelf from the firſt to the laſt, with great reſolu<g ref="char:EOLhyphen"/>tion, encouraging the ſouldiers, and engaging himſelf in the heat of the ſervice: Captain <hi>Jones</hi> who came off from the enemy to me long ſince, with a Troop of ſixty horſe, be<g ref="char:EOLhyphen"/>haved himſelf likewiſe very well; as alſo all other Officers and Souldiers, I can truly ſay, kept their order in the per<g ref="char:EOLhyphen"/>formance of this ſervice, to the admiration of the enemy, as ſome of them confeſt.</p>
+            <p>And that Gods mercy may be the more magnified in this late happy ſueceſs over our enemies, I think it now ſeaſon<g ref="char:EOLhyphen"/>able to make known unto you the ſtraights we were in, and difficulties which compaſſed us about, we having a potent enemy, lying within two miles upon much advantage of ground, before us the high Mountains cloſe to us, on the righthand the Sea neer unto us, on the left Chepſtow taken and Monmouthſhire beginning to riſe in our Rear, beſides
+<pb n="6" facs="tcp:161708:4"/>our great want of proviſions and long and hard duty; all which ſeemed to threaten our ſudden ruine, That God ſhould pleaſe in this condition, ſo to own us, as to make a way for us through the midſt of our enemies, and to ſcatter them every way, is a mercy not to be forgotten, eſpecially by thoſe who have more immediately taſted of it, witneſſing the truth of theſe things as they are herein expreſſed by</p>
+            <closer>
+               <signed>Your faithful and moſt humble Servant <hi>Tho. Horton.</hi>
+               </signed>
+               <dateline>
+                  <hi>Bridge-end,</hi> 
+                  <date>
+                     <hi>May</hi> 13. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_officers">
+            <pb n="7" facs="tcp:161708:4"/>
+            <head>A Liſt of the Names of the Officers taken by Col: <hi>Horton,</hi> May 8. 1648.</head>
+            <list>
+               <item>
+                  <hi>MAjor General</hi> Stradling.</item>
+               <item>
+                  <hi>Colonel</hi> Harris.</item>
+               <item>
+                  <hi>Lieut. Col:</hi> Matthews.</item>
+               <item>
+                  <hi>Major</hi> Hopkins.</item>
+               <item>
+                  <hi>Major</hi> Philips.</item>
+               <item>
+                  <hi>Major</hi> Stedman.</item>
+               <item>
+                  <hi>Major</hi> Gwyn.</item>
+               <item>
+                  <hi>Major</hi> Adis.</item>
+               <item>
+                  <hi>Major</hi> Hopkin Daukins.</item>
+               <item>
+                  <hi>Quartermaſter Gen.</hi> Harris.</item>
+               <item>
+                  <hi>Field-Officers 10.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Captains,</head>
+               <item>Rowland Lewis.</item>
+               <item>Edmond Price.</item>
+               <item>William Cradock.</item>
+               <item>William Matthews.</item>
+               <item>Jo: Floyd.</item>
+               <item>William Williams.</item>
+               <item>Hugh Floyd.</item>
+               <item>Charls Abway.</item>
+               <item>Richard Hopkins.</item>
+               <item>Richard Hopkins.</item>
+               <item>Robert Matthews.</item>
+               <item>Jo: Owins.</item>
+               <item>Rowland Matthews.</item>
+               <item>Richard Jones.</item>
+               <item>James Matthews.</item>
+               <item>William Purve.</item>
+               <item>Tho: Bowin.</item>
+               <item>Jo: Thomas.</item>
+               <item>Jo: Rice.</item>
+               <item>James Lewis.</item>
+               <item>Richard Eſmond.</item>
+               <item>Griffin Bowin.</item>
+               <item>
+                  <hi>Captain Lieut:</hi> Bartlet. <note place="margin">24</note>
+               </item>
+               <item>
+                  <hi>Captain Lieut:</hi> Hewit.</item>
+            </list>
+            <list>
+               <head>Lieutenants,</head>
+               <item>Button.</item>
+               <item>Valentine Swale.</item>
+               <item>Jeremy Wiſe.</item>
+               <item>William Richard.</item>
+               <item>Owen Prichard.</item>
+               <item>Prother.</item>
+               <item>John Thomas.</item>
+               <item>Tho: Talbut.</item>
+               <item>Pew.</item>
+               <item>Jo: Jenkins.</item>
+               <item>Jo: Morgan.</item>
+               <item>David Loyd.</item>
+               <item>Jo: Griffith.</item>
+               <item>Williams.</item>
+               <item>Tho: Powel.</item>
+               <pb n="8" facs="tcp:161708:5"/>
+               <item>William Griffith.</item>
+               <item>Lewcas.</item>
+               <item>Will: Suttleworth.</item>
+               <item>Walter Floyd.</item>
+               <item>Griffen Thomas.</item>
+               <item>Jo: Graver.</item>
+               <item>Jo: Griffith.</item>
+               <item>Walter Jones.</item>
+               <item>Hugh Taylor.</item>
+               <item>Tho: Molſon.</item>
+               <item>Lewis Jones.</item>
+               <item>Tho: Morgan.</item>
+               <item>William Peregrine.</item>
+               <item>Tho: Jenkens.</item>
+               <item>Tho: Jones. <note place="margin">30</note>
+               </item>
+            </list>
+            <list>
+               <head>Enſigns,</head>
+               <item>Jo: Harris.</item>
+               <item>Tho: Hopkins.</item>
+               <item>David Walter.</item>
+               <item>Rowland Predrow.</item>
+               <item>Jo: Williams.</item>
+               <item>Morris <g ref="char:V">Ʋ</g>prichard.</item>
+               <item>Jo: Keyes.</item>
+               <item>Nat: Gee.</item>
+               <item>Tho: Richard.</item>
+               <item>Gabriel Harbert.</item>
+               <item>William Fluellen Griffeth.</item>
+               <item>Ariam Morfew.</item>
+               <item>Walter Williams.</item>
+               <item>John Barriſon.</item>
+               <item>Griffen Thomas.</item>
+               <item>Barthol: Rutter.</item>
+               <item>Rice John.</item>
+               <item>Owen Bowin.</item>
+               <item>Morgan Roberts.</item>
+               <item>Rice Howel.</item>
+               <item>James Annis.</item>
+               <item>Tho: Williams.</item>
+               <item>James Harman.</item>
+               <item>Lewis Chriſtopher.</item>
+               <item>Matt: Stace.</item>
+               <item>Hewin Richard.</item>
+               <item>John Backster.</item>
+               <item>Ed: Thomas. <note place="margin">28.</note>
+               </item>
+            </list>
+            <list>
+               <head>Reforma. Gent.</head>
+               <item>Samuel Howel.</item>
+               <item>Harbert Jefferies</item>
+               <item>Parſon Owen.</item>
+               <item>Hump. Matthews.</item>
+               <item>David Perre.</item>
+               <item>Rich: Floyd.</item>
+               <item>Robert David.</item>
+               <item>Rob: Nicoll.</item>
+               <item>William Button.</item>
+               <item>Geo: Davis.</item>
+               <item>Rol: Filips.</item>
+               <item>
+                  <hi>Mr.</hi> Ryley.</item>
+               <item>Morgan Priſt.</item>
+               <item>Bar. Davey.</item>
+               <item>Joſ: Hance.</item>
+               <item>Edw. Thomas.</item>
+               <item>Hugh Conyer.</item>
+               <item>Jo: Thomas.</item>
+               <item>
+                  <hi>Mr.</hi> Thomas.</item>
+               <item>Hugh Sawyer. <note place="margin">20</note>
+               </item>
+            </list>
+            <list>
+               <head>Chyrurgions.</head>
+               <item>Robert Williams.</item>
+               <item>Richard Maren.</item>
+            </list>
+            <list>
+               <head>Peter Niccoles</head>
+               <item>
+                  <hi>Drum-major.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>With 2900 Com<g ref="char:EOLhyphen"/>mon Soldiers, and non-Commiſſioned Officers.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
